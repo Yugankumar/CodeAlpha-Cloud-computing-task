@@ -175,3 +175,11 @@ Yugan K
 ## 📜 License
 
 This project is for educational purposes.
+
+##screenshots
+<img width="1919" height="938" alt="Screenshot 2026-05-25 223529" src="https://github.com/user-attachments/assets/58498b30-022c-4cdc-8fdc-04dad76cca4b" />
+<img width="1912" height="826" alt="Screenshot 2026-05-25 223504" src="https://github.com/user-attachments/assets/3ced2107-517c-4423-8f88-66c334ffee35" />
+
+
+
+
